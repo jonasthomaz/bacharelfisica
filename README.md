@@ -6,27 +6,15 @@ Projeto feito com o objetivo de acompanhar os estudos relacionados ao curso de F
 pretendo inicialmente separar de acordo com as matérias, e libs/outros.
 
 
-e∈S	
-in
 
-elemento e é membro de S
-A⊆B	
-<=
+## Uteis
 
-A é um subconjunto de B
-A⊂B	
-<
-
-A é um subconjunto próprio de B
-A∪B	
-|
-
-A união com B
-A∩B	
-&
-
-A interseção com B
-A∖B	
--
-
-diferença entre A e B
+### Operadores para lidar com conjuntos/elementos em python (com base em sets)
+| Operação | Python |         Descrição               |
+|----------|--------|:-------------------------------:|
+| e∈S      | in     | elemento e é membro de S        |
+| A⊆B      | <=     | A é um subconjunto de B         |
+| A⊂B      | <      | A é um subconjunto próprio de B |
+| A∪B      | |      | A união com B                   |
+| A∩B      | &      | A interseção com B              |
+| A∖B      | -	    | Diferença entre A e B           |
