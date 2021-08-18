@@ -1,5 +1,4 @@
 # Bacharelado Física
-
 https://github.com/jonasthomaz/bacharelfisica
 
 Projeto feito com o objetivo de acompanhar os estudos relacionados ao curso de Física que estou fazendo na Uninter. Vou fazer a aula, fazer a lista de exercicios na tradição, papel e caneta, e depois resolver os mesmos problemas usando python, da melhor maneira possivel, comentando  as libs e o que foi utilizado.
@@ -23,3 +22,11 @@ pretendo inicialmente separar de acordo com as matérias, e libs/outros.
 | A∪B      | \|     | A união com B                   |
 | A∩B      | &      | A interseção com B              |
 | A∖B      | -	    | Diferença entre A e B           |
+
+
+
+### o que temos aqui?
+- Conjuntos
+- Equações de 1º grau
+- Equações de 2º grau
+- Inequações
